@@ -1,0 +1,29 @@
+﻿  BasicWidget.cpp
+  Course.cpp
+  Management.cpp
+C:\vsproject\stuManagement\Management.cpp(43,81): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(53,77): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(63,81): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(73,83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(83,87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(278,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(390,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(445,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Management.cpp(467,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Pushbutton.cpp
+  Table.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\vsproject\stuManagement\Table.cpp(116,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(128,75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(155,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(156,79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(186,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(261,69): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\vsproject\stuManagement\Table.cpp(272,79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Window.cpp
+  Main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 489 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  stuManagement.vcxproj -> C:\vsproject\stuManagement\x64\Release\stuManagement.exe

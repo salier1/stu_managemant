@@ -1,0 +1,3 @@
+C:\vsproject\stuManagement\x64\Debug\stuManagement.exe
+C:\Users\何嘉玮\Desktop\数据结构课程设计 要求\学号+姓名 数据结构课程设计\stuManagement\x64\Debug\stuManagement.exe
+C:\Users\UserX\Desktop\何嘉玮9210604202 数据结构课程设计\stuManagement\x64\Debug\stuManagement.exe

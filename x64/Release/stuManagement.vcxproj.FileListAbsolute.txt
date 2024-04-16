@@ -1,0 +1,1 @@
+C:\vsproject\stuManagement\x64\Release\stuManagement.exe
